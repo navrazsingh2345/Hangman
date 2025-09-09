@@ -1,0 +1,34 @@
+[
+    {
+        "Question": "Where is the head office of Code Quotient ?",
+        "Answer": "Mohali"
+    },
+    {
+        "Question": "What is the Capital of Himachal Pradesh ?",
+        "Answer": "Shimla"
+    },
+    {
+        "Question": "Which programming language is used for web development?",
+        "Answer": "JavaScript"
+    },
+    {
+        "Question": "What does HTML stand for?",
+        "Answer": "Hyper Text Markup Language"
+    },
+    {
+        "Question": "What is the national animal of India?",
+        "Answer": "Tiger"
+    },
+    {
+        "Question": "Which planet is known as the Red Planet?",
+        "Answer": "Mars"
+    },
+    {
+        "Question": "Who is the founder of Microsoft?",
+        "Answer": "Bill Gates"
+    },
+    {
+        "Question": "What is the largest ocean on Earth?",
+        "Answer": "Pacific Ocean"
+    }
+]

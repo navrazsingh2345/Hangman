@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hangman Game</h1>
+
+      <div class="game-container">
+        <div class="question-container">
+          <h2>Question:</h2>
+          <p id="question"></p>
+        </div>
+
+        <div class="word-display" id="wordDisplay"></div>
+
+        <div class="keyboard" id="keyboard"></div>
+
+        <div class="lives-container">
+          <p>Lives: <span id="lives">6</span></p>
+        </div>
+
+        <div id="message" class="message"></div>
+
+        <button id="newGameBtn" class="new-game-btn">New Game</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
